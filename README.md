@@ -87,18 +87,4 @@ An interactive Power BI dashboard analyzing employee attrition patterns across 1
 
 ---
 
-## 📝 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
 ⭐ If you found this helpful, please give it a star!
